@@ -9,7 +9,7 @@
 
 
 .login{
-    margin:100px 350px;
+    margin:100px 400px 150px;
     border: 6px solid rgb(58, 48, 125);
     padding: 20px;
     background-color: thistle;
@@ -33,7 +33,7 @@ table,th,td {
     
 }
 .table{
-    margin:100px 350px;
+    margin:100px 400px 150px;
     border: 6px solid rgb(8, 59, 25);
     padding: 20px;
     background-color: rgba(107, 247, 144, 0.906);
