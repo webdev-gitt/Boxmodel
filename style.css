@@ -9,7 +9,8 @@
 
 
 .login{
-    margin:100px 400px 150px;
+    margin:100px 0px;
+    margin-left: 500px;
     border: 6px solid rgb(58, 48, 125);
     padding: 20px;
     background-color: thistle;
@@ -30,10 +31,13 @@
 table,th,td {
     border: 1px solid black;
     text-align: center;
+    padding: 6px;
+    margin-top: 40px;
     
 }
 .table{
-    margin:100px 400px 150px;
+    margin:100px 0px;
+    margin-left: 500px;
     border: 6px solid rgb(8, 59, 25);
     padding: 20px;
     background-color: rgba(107, 247, 144, 0.906);
