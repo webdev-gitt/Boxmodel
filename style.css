@@ -1,0 +1,43 @@
+.container{
+ border: 2px solid black;
+ border-radius: 10px;
+ background-color: rgb(41, 2, 77);
+ margin: 40px;
+ height: 400px;
+ box-shadow: 10px 6px 5px rgb(50, 1, 50);
+}
+
+
+.login{
+    margin:100px 350px;
+    border: 6px solid rgb(58, 48, 125);
+    padding: 20px;
+    background-color: thistle;
+    border-radius: 10px;
+    box-shadow: 10px 6px 5px rgb(17, 1, 20);
+}
+   
+
+.container-div{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightgreen;
+    margin: 40px;
+    height: 400px;
+    box-shadow: 10px 6px 5px rgb(3, 22, 3);
+
+}
+table,th,td {
+    border: 1px solid black;
+    text-align: center;
+    
+}
+.table{
+    margin:100px 350px;
+    border: 6px solid rgb(8, 59, 25);
+    padding: 20px;
+    background-color: rgba(107, 247, 144, 0.906);
+    border-radius: 10px;
+    box-shadow: 10px 6px 5px rgb(17, 1, 20);
+    
+}
